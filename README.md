@@ -10,16 +10,12 @@ I have spent a lot of my spare time as a kid studying and using the block-based 
 
 As I grew older, learned a lot of the wizardry behind Scratch and saw almost everything the platform had to offer, I decided to expand my work out into the real-world and create new tools and extensions based around the original concepts of Scratch that other people might find useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning about SQL databases
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+#### I’m currently working on:
+- sb3-journal - A tool that works with the [Scratch 3 file format](https://en.scratch-wiki.info/wiki/Scratch_File_Format) and makes the .zip contents of a Scratch project actually readable by a human, by renaming costumes and sounds, converting block code into [scratchblocks text](https://scratchblocks.github.io) and extracting some other information from project.json.
+- Neko Toolbox - An open-source implemenation of [Web Neko](https://webneko.net), a little virtual pet that chases your mouse cursor around the screen. This version aims to let users easily create and load their own Neko sprites and port features from [old desktop versions](https://en.wikipedia.org/wiki/Neko_\(software\)) of Neko that have been lost to time.
+- Toontown Re-Tooned - A 2D demake fangame of the MMORPG [Toontown Online](https://en.wikipedia.org/wiki/Toontown_Online) created using the [TurboWarp](https://github.com/TurboWarp) Scratch mod, with all new graphics, ToonTasks and more!
 
-#### Some things I've made or contributed to:
+#### All the stuff I've done so far:
 - [expanded-backpack](https://github.com/ScratchAddons/ScratchAddons/tree/master/addons/expanded-backpack): The [Multiple rows in backpack](https://github.com/ScratchAddons/ScratchAddons/pull/5120) userscript for Scratch Addons.
 - 
 - 
-
----
-🎮 You can probably find me on that "[unmoderated chat app](https://ocular.jeffalo.net/search?q=unmoderated%20chat)" that both starts and ends with the letter 'd' at the same username as my GitHub, maybe in the Sat-on Add-ons or TurboWarp community server. (Say the word and evil kumquats will come and eat all your energy units)
