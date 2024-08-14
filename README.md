@@ -1,11 +1,12 @@
-## Hey mate, I'm pumpkin. 🎃🤓
+## Hey there, I'm pumpkin! 🎃🤓 ![](https://komarev.com/ghpvc/?username=pumpkinhasapatch&color=orange&style=flat-square)
 
-### A little bit about me:
-I started messing around with computers as a kid writing silly little "games" with Command Prompt. I was [Scratch](https://scratch.mit.edu).
+I started tinkering with computers as a kid, writing little programs with things like [Scratch](https://scratch.mit.edu) and the Command Prompt. I've always been amazed by being able to create and design things in both the real and digital worlds just by pressing the same [~80/100](https://www.computerhope.com/issues/ch001598.htm) buttons on a plastic keyboard over and over.
 
-As I grew older, learned a lot of the wizardry behind Scratch and saw almost everything the platform had to offer, I decided to expand my work out into the real-world and create new tools and extensions based around the original concepts of Scratch that other people might find useful.
+As I grew older, I learned that a lot of things in the world are powered by [free and open source software](https://en.wikipedia.org/wiki/FOSS) that gives users the freedom to make their own software solutions and share them with the world, and we're not just stuck using whatever proprietary defaults Microsoft or Google make us create an account for. I decided to expand my work from my silly ideas, scribbles and Scratch projects out into the real world and create new tools and programs that other people might find useful.
 
-### Programming languages I actually know: 
+You can check out [my Stars page](https://github.com/pumpkinhasapatch?tab=stars) for other people's projects that I think are cool or helpful, or the Pinned projects below for things that I've done!
+
+### Programming languages that I'm good at: 
 ![HTML5](https://img.shields.io/badge/html-e34f26?logo=html5&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?logo=javascript&logoColor=f7df1e&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/css-1572b6?logo=css3&logoColor=white&style=for-the-badge)
@@ -13,10 +14,10 @@ As I grew older, learned a lot of the wizardry behind Scratch and saw almost eve
 ![TurboWarp](https://img.shields.io/badge/turbowarp-ff4c4c?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIGFyaWEtaGlkZGVuPSJ0cnVlIiB2aWV3Qm94PSIzMyAyMSAzNTMgMzk0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIHRyYW5zZm9ybT0ibWF0cml4KDQsIDAsIDAsIDQsIC03MywgLTY0KSIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTSAxMDggMjUgQyAxMDcgMjggMTA3IDQ0IDEwNyA0NSBDIDEwNyA0NyA5OCA0OCA5NyA0NiBDIDk3IDQ0IDk4IDMwIDk4IDI5IEMgOTggMjkgODAgMjkgNzEgMzAgQyA3MSAzMSA3MiAxMDEgNzMgMTAyIEMgNzMgMTAyIDg3IDEwMyA4NyAxMDYgQyA4NyAxMDggODYgMTEwIDg0IDExMSBDIDgzIDExMSA0OCAxMTIgNDcgMTEwIEMgNDYgMTA5IDUyIDEwMyA1OCAxMDMgQyA2MSAxMDMgNjMgOTkgNjMgOTggQyA2MyA5NSA2MyAzMCA2MyAzMCBDIDYwIDMxIDQyIDMwIDM2IDMxIEMgMzggNDAgMzkgNTMgMzggNTUgQyAzOCA1NyAzNyA1NyAzNSA1NyBDIDMzIDU3IDI2IDI3IDI2IDI2IEMgMjYgMjQgNzIgMjIgNzIgMjIgQyA4MSAyMiAxMDggMjMgMTA4IDI1IFoiLz48L2c+PC9zdmc+&style=for-the-badge "TurboWarp user badge by pumpkinhasapatch. Feel free to use it on your own profile :)")
 
 ### Things I've made or contributed to:
-- [Scratch Addons](https://scratchaddons.com) - [Scratch](https://scratch.mit.edu) editor and website. I have created the [Multi-row backpack](https://github.com/ScratchAddons/ScratchAddons/pull/5120) addon and am currently working on a new addon to copy blocks from the editor in [text form](https://en.scratch-wiki.info/wiki/Block_Plugin).
+- [Scratch Addons](https://scratchaddons.com) - A community-made led to customise and fix annoyances with the [Scratch](https://scratch.mit.edu) editor and website. I have contributed a few addons, including [Multi-row backpack](https://github.com/ScratchAddons/ScratchAddons/pull/5120) and am currently working on [Copy scratchblocks from editor]() which allows code blocks to be copied directly from the Project Editor as [text pseudocode](https://en.scratch-wiki.info/wiki/Block_Plugin), as used on the Scratch Wiki and [Forums](https://scratch.mit.edu/discuss).
 - [Doko Demo Issyo (PSP) Fan Translation](https://github.com/pumpkinhasapatch/dokodemo-psp-english) - An attempt to replace all text in the Japanese game [Doko Demo Issyo](https://dokodemo.fandom.com/wiki/Doko_Demo_Issyo) with an accurate English translation. This is still in early progress and is only for the PSP remake released in 2004.
-- 
-- 
+- My website - A collection of my thoughts, projects and hobbies presented on a clean webpage with a retro-aesthetic pixel art style. Used to be hosted on [Neocities](https://neocities.org/site/pumpkinhasa), but its currently been taken down by me to iron out some issues and decide what content should be put on it.
+- And hopefully more in the future!
 
 <!-- Not much to show here yet - Might uncomment this when I have more repos/commits.
 ### My GitHub statistics:
@@ -27,16 +28,18 @@ As I grew older, learned a lot of the wizardry behind Scratch and saw almost eve
 
 ### Favourite software:
 All of these are all free/open source software. I found them quite easy to use and there are plenty of tutorials and documentation out there if you want to try them too.
+<details> 
+  <summary>Click to show/hide software</summary>
 
-| Usage | Name | Description
+| Usage | Name | Description |
 | - | - | - |
 | Web browser | [LibreWolf](https://librewolf.org)/[Ungoogled Chromium](https://ungoogled-software.github.io/) + [uBlock Origin](https://ublockorigin.com) | Get rid of invasive ads and tracking from companies like Google and Facebook while still having the same look and feel as the most popular browsers you already know. Other browsers like Chrome/Opera/Vivaldi/Brave are based on Chromium still allow most tracking with their own stuff built in.
-| Code editor | [VSCodium](https://vscodium.org) | A nice fork of Microsoft Visual Studio Code maintained by the community. It gets rid of some [questionable telemetry](https://www.roboleary.net/tools/2022/04/20/vscode-telemetry.html)
+| Code editor | [VSCodium](https://vscodium.org) | A nice fork of Microsoft Visual Studio Code maintained by the community, completely usable without some [questionable telemetry](https://www.roboleary.net/tools/2022/04/20/vscode-telemetry.html) added by Microsoft.
 | Image editing | [GIMP](https://gimp.org) | GNU image manipulation program or "the GIMP" as all the cool kids once called it. A completely free alternative to big brand image editing software with Layers, transparency, custom brushes and stamps, and many other things. I have been using this since my first computer running Windows XP.
 | Pixel Art | [Aseprite](https://aseprite.com)/[LibreSprite](https://libresprite.github.io) | The entire editor. LibreSprite is an older version before Aseprite changed to paid/proprietary licensing, with some extra things added to it documented on their website.
 | Sequencer | [pxtone collage](https://www.cavestory.org/pixels-works/pxtone-collage.php)/[collab](https://yuxshao.github.io/ptcollab/) | A video game music composition software created by Pixel, the game developer behind Ikachan and [Cave Story](https://cavestory.org). It's like playing a piano automatically through your computer and you can make it sound like any instrument or .wav file you want.
 | Audio editing | [Audacity](https://audacity.org) | A more general purpose and well known sound editor. Crop sounds, add effects with the menus at the top, make multiple tracks with different files.
 | Video editing | [Kdenlive](https://kdenlive.org) | An almost-professional video editor made by [KDE](https://kde.org). It supports video files, images, music, different tracks and has many effects and animation tools built in. I might make YouTube videos with this some day.
-| Operating system | [Fedora Linux](https://fedoraproject.org) | Got tired of Windows 11's bloated in-your-face UI [shoving ads for other Microsoft products](https://www.youtube.com/watch?v=-xBKQI_NdzA) down my throat and fully switched to Fedora Workstation around mid-2024. I have also messed with Mint, xubuntu and MX Linux in the past on a spare laptop.
+| Operating system | [Fedora Linux](https://fedoraproject.org) | Got tired of Windows 11's bloated in-your-face UI [shoving ads for other Microsoft products](https://www.youtube.com/watch?v=-xBKQI_NdzA) down my throat and fully switched to Fedora Workstation around mid-2024. I have also messed with Mint, xubuntu and MX Linux in the past on a spare laptop. Notice how I've put this at the bottom to hide my crazy obsession with Linux computing that most of you Windows people wouldn't understand anyway.
 
-I will probably move all this stuff to my website if I ever stop procrastinating and figure out how to fix some CSS stylesheet issues.
+</details>
